@@ -1,31 +1,33 @@
-# ✅ To-Do List Manager (Python CLI)
+# 📝 To-Do List Manager (Python CLI)
 
-A simple command-line based To-Do list manager built in Python. Add, view, complete, and delete your tasks — all saved using a persistent text file.
-
----
-
-## 🛠 Technologies Used
-
-- Python
-- File Handling
-- Command Line Interface
+A simple command-line based To-Do List app built in Python to help users manage their daily tasks efficiently with persistent file storage.
 
 ---
 
-## 📦 Features
+## 📂 Project Overview
 
-- ➕ Add new tasks
-- ✅ Mark tasks as complete
+This CLI app lets users:
+- ✅ Add new tasks
+- 📋 View all tasks
+- ✔️ Mark tasks as complete
 - ❌ Delete tasks
-- 📋 View all tasks with their status
-- 💾 Persistent storage using `tasks.txt`
+
+All tasks are stored in a text file so your list remains intact even after closing the program.
 
 ---
 
-## 💻 How to Run
+## 🧰 Tech Stack
 
-1. Open terminal in the project folder
-2. Run the script:
+| Tool / Language | Purpose              |
+|------------------|-----------------------|
+| Python 🐍        | Core logic and CLI    |
+| File Handling 📁 | Persistent storage    |
+| VS Code 💻       | Development environment |
 
+---
+
+## 🚀 How to Run
+
+### 1️⃣ Open Terminal in Project Folder  
 ```bash
-python todo.py
+cd ToDoListPython
