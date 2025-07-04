@@ -1,1 +1,6 @@
 0|Solve dsa questions
+0|Revise sorting algorithms
+1|Complete Python project README
+1|Apply for internship at Microsoft
+0|Prepare notes on OOP concepts
+0|Practice 2 DSA problems from Leetcode
